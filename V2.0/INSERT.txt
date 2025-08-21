@@ -1,0 +1,12 @@
+Zamieścić:
+
+- Pełna instrukcja obsługi urządzenia
+- Zdjęcia urządzenia
+- Zadania uczące obsługi
+- Pliki solid i stl modeli
+- Software z komentarzami
+- Schemat połączeń elektronicznych
+- Wymagania hardware-owe
+- Instrukcja wykonania dla laika
+- Rendery modeli
+- 

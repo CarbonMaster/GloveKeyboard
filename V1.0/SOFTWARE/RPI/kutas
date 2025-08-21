@@ -1,0 +1,27 @@
+Wazne komendy:
+
+restart routera i monitor mode:
+
+ifconfig nazwakarty
+iwconfig nazwakarty down
+ifconfig nazwakarty monitor mode
+nmcli n off
+nmcli n on
+iwconfig nazwakarty up
+
+
+instalowanie sterownikow do karty wifi:
+cd rtl* (czyli do folderu z instalatorem)
+make
+make install
+sudo apt update
+sudo apt-get install dkms (jezeli nie masz)
+make dkms_install
+
+
+
+
+
+
+nmcli d wifi
+pokazuje wifi ktore sa wykrywalne
